@@ -26,6 +26,7 @@ public class Rectangle extends Shape {
     public int getWidth() {
         return width;
     }
+
     public  Color getColor() {
         return color;
     }
