@@ -24,7 +24,7 @@ class MethNestedTry {
 
     public static void main(String[] args) {
         try {
-            int a = args.length;
+            int a = 2;
             /* Если не указаны аргументы командной строки,
                в следующем операторе будет сгенерировано
                исключение в связи с делением на нуль. */

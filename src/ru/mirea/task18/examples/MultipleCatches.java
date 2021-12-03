@@ -4,7 +4,7 @@ package ru.mirea.task18.examples;
 class MultipleCatches {
     public static void main (String[] args) {
         try {
-            int a = args.length;
+            int a = 1;
             System.out.println("a = " + a);
             int b = 10 / a;
             int[] m = {1};

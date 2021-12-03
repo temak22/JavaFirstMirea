@@ -4,7 +4,7 @@ package ru.mirea.task19.examples;
 class NestedTry {
     public static void main (String[] args) {
         try {
-            int a = args.length;
+            int a = 1;
 
             /* Если не указаны аргументы командной строки,
                в следующем операторе будет сгенерировано
